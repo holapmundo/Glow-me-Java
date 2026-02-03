@@ -1,0 +1,4 @@
+Manifest-Version: 1.0
+Create-By: A
+Main-class: Bienvenida
+X-COMMENT: Curso
